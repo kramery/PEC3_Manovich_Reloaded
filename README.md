@@ -69,10 +69,11 @@ Ambos casos ilustran cómo la **hibridación moderna** puede crear nuevas experi
 ## Referencias y bibliografía
 
 IKEA Global Newsroom. (2017). Launch of new IKEA Place app. [online] disponible en: https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-ikea-place-a-new-app-that-allows-people-to-virtually-place-furniture-in-their-home-170912/ [Accedido en 18 Dic. 2024].
+
 IKEA Global Newsroom. (2018). IKEA Place app now on Android too. [online] disponible en: https://www.ikea.com/global/en/newsroom/innovation/ikea-place-app-launches-on-android-allowing-millions-of-people-to-reimagine-home-furnishings-using-ar-180319/ [Accedido en 18 Dic. 2024].
-Ensayo 2: Bandersnatch y la Narrativa Interactiva
 
 Wikipedia. (2018). Black Mirror: Bandersnatch. [online] disponible en: https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch [Accedido en 18 Dic. 2024].
 Screen Rant. (2018). Black Mirror: Bandersnatch Choices Guide - Best Decisions & Outcomes. [online] disponible en: https://screenrant.com/black-mirror-bandersnatch-choices-guide-best-decisions/ [Accedido en 18 Dic. 2024].
+
 Netflix. (2018). Watch Black Mirror: Bandersnatch. [online] disponible en: https://www.netflix.com/title/80988062 [Accedido en 18 Dic. 2024].
 
