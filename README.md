@@ -66,7 +66,7 @@ Ambos casos ilustran cómo la **hibridación moderna** puede crear nuevas experi
 
 [Subir](#top)
 
-## Referencias y Bibliografía
+## Referencias y bibliografía
 
 IKEA Global Newsroom. (2017). Launch of new IKEA Place app. [online] disponible en: https://www.ikea.com/global/en/newsroom/innovation/ikea-launches-ikea-place-a-new-app-that-allows-people-to-virtually-place-furniture-in-their-home-170912/ [Accedido en 18 Dic. 2024].
 IKEA Global Newsroom. (2018). IKEA Place app now on Android too. [online] disponible en: https://www.ikea.com/global/en/newsroom/innovation/ikea-place-app-launches-on-android-allowing-millions-of-people-to-reimagine-home-furnishings-using-ar-180319/ [Accedido en 18 Dic. 2024].
